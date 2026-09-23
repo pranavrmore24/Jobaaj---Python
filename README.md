@@ -2,7 +2,7 @@
 
 # Python Assignments
 ## HACKERRANK
-![Query 1 Output](screenshots/HACKERRANK%20PYTHON%20PROFILE%20.png)
+![Query 1 Output](screenshots/HACKERRANK%20PYTHON%20PROFILE.png)
 ![Query 1 Output](screenshots/Level%202%20SQL%20PRACTICE%20-%202.png)
 ![Query 1 Output](screenshots/Level%202%20SQL%20PRACTICE%20-%203.png)
 ![Query 1 Output](screenshots/Level%202%20SQL%20PRACTICE%20-%204.png)
